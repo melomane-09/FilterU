@@ -9,3 +9,5 @@ Requirements to run the application:
 4.	Install cmake
 5.	Install dlib
 6.	Install Face_recognition 
+
+To generate the link to the web-application we need to open the terminal in VS Code and run the command - python manage.py runserver and we will be getting the link to the home page of the website.
